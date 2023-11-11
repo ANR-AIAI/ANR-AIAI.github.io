@@ -2,18 +2,12 @@
 layout: default
 ---
 
-<div>
-<img src="{{site.url}}img/baniere_3.jpg" width="100%" height="100%"/>
-</div>
-
-<br>
-
 {::nomarkdown}
 <TABLE WIDTH=100%>
   <TR VALIGN=TOP>
     <TD WIDTH=50% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0cm"><P><img src="{{site.baseurl}}/img/logo_AIAI_final_text.jpg" width="100%" height="100%" style="float: none;" /></P></TD>
     <TD WIDTH=50% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0cm">
-      <P style="text-align: center;"><b> <br> <br>Artificial Intelligence to improve the coupling between the Antarctic ice sheet and the ocean/atmosphere system (AIAI)</b><br> <br> <br>2023-2027 <br> <br> <br>Funded by the French National Agency for Research<br> <br><img src="{{site.baseurl}}/img/ANR-logo-2021-sigle.jpg" width="20%" height="20%" /> </P>
+      <P style="text-align: center;"><b> <br> <br>Artificial Intelligence to improve the coupling between the Antarctic Ice sheet and the ocean/atmosphere system (AIAI)</b><br> <br> <br>2023-2027 <br> <br> <br>Funded by<br> <img src="{{site.baseurl}}/img/ANR-logo-2021-sigle.jpg" width="20%" height="20%" /> </P>
     </TD>
   </TR>
 </TABLE>
