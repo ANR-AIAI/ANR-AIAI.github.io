@@ -11,10 +11,11 @@ layout: default
 {::nomarkdown}
 <TABLE WIDTH=100%>
   <TR VALIGN=TOP>
-    <TD WIDTH=50% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0cm"><P><img src="{{site.baseurl}}/img/logo_AIAI_final_text.jpg" width="100%" height="100%" style="float: none;" /></P></TD>
+    <TD WIDTH=40% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0cm"><P><img src="{{site.baseurl}}/img/logo_AIAI_final_text.jpg" width="100%" height="100%" style="float: none;" /></P></TD>
     <TD WIDTH=50% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0cm">
-      <P><b>Artificial Intelligence to improve the coupling between the Antarctic ice sheet and the ocean/atmosphere system (AIAI)</b><br> <br>Funded by the French National Agency for Research (ANR) over 2023-2027<br> <br><img src="{{site.baseurl}}/img/ANR-logo-2021-sigle.jpg" width="20%" height="20%" style="float: none;" /> </P>
+      <P><b>Artificial Intelligence to improve the coupling between the Antarctic ice sheet and the ocean/atmosphere system (AIAI)</b><br> <br> <br>Funded by the French National Agency for Research (ANR) over 2023-2027<br> <br> <br><img src="{{site.baseurl}}/img/ANR-logo-2021-sigle.jpg" width="20%" height="20%" style="float: none;" /> </P>
     </TD>
+    <TD WIDTH=10% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0cm"><P>  </P></TD>
   </TR>
 </TABLE>
 {:/}
