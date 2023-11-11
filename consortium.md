@@ -12,7 +12,11 @@ permalink: /consortium
 
 The AIAI consortium consists of 2 partners: the [Institut des Géosciences de l’Environnement (IGE)](https://www.ige-grenoble.fr), Grenoble, and the [Institut Pierre Simon Laplace (IPSL)](https://www.ipsl.fr/en/home-en/), Paris, itself represented by two labs: [LSCE](https://www.lsce.ipsl.fr) and [LOCEAN](https://www.locean.ipsl.fr).
 
-The project leaders are [Nicolas Jourdain (IGE)](https://nicojourdain.github.io) and [Masa Kageyama (IPSL-LSCE)](https://www.lsce.ipsl.fr/Phocea/Pisp/index.php?nom=masa.kageyama).
+The project is coordinated by:
+
+* [Nicolas Jourdain (IGE)](https://nicojourdain.github.io)
+
+* [Masa Kageyama (IPSL-LSCE)](https://www.lsce.ipsl.fr/Phocea/Pisp/index.php?nom=masa.kageyama).
 
 The rest of the consortium consists of:
 
