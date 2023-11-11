@@ -1,4 +1,4 @@
-# nicojourdain.github.io
-Nico's web site
+# ANR-AIAI.github.io
+Website the the AIAI ANR project.
 
-Visit on: [https://nicojourdain.github.io](https://nicojourdain.github.io)
+Visit on: [https://ANR-AIAI.github.io](https://ANR-AIAI.github.io)
