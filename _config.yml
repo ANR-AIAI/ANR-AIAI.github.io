@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Physics of the climate system
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://ANR-AIAI.github.io/
-github_username:  nicojourdain
+github_username:  ANR-AIAI
 #header-img: img/baniere_3.jpg
 
 # Build settings
