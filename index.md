@@ -9,23 +9,18 @@ layout: default
 <br>
 
 {::nomarkdown}
-<div style="display:inline;text-align:left;">
-<img src="{{site.baseurl}}/img/logo_AIAI_final_text.jpg" width="30%" height="30%" style="float: left;" />
-<div style="float:right">
-<b>Artificial Intelligence to improve the coupling between the Antarctic ice sheet and the ocean/atmosphere system (AIAI)</b><br>
-<br>
-Funded by the French National Agency for Research (ANR) over 2023-2027.
-<br>
-<img src="{{site.baseurl}}/img/ANR-logo-2021-sigle.jpg" width="10%" height="10%" style="float: none;" />
-<hr>
-This project aims to improve the integration of ice sheets into Earth System Models through the use of neural network emulators at the interfaces between the Antarctic ice sheet and the global atmosphere, and between Antarctic ice sheet and the global ocean. These will bring increased resolution and account for polar processes absent or poorly represented in Earth System Models. We will use this enhanced coupling framework to improve future projections of the Antarctic ice sheet contribution to global mean sea level rise by reducing uncertainties of both ocean-induced and atmosphere-induced variations in ice mass.
-<hr>
-</div>
-</div>
-<div style="clear:both"/>
+<TABLE WIDTH=100%>
+  <TR VALIGN=TOP>
+    <TD WIDTH=30% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0cm"><P><img src="{{site.baseurl}}/img/logo_AIAI_final_text.jpg" width="30%" height="30%" style="float: left;" /></P></TD>
+    <TD WIDTH=70% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0cm">
+      <P><b>Artificial Intelligence to improve the coupling between the Antarctic ice sheet and the ocean/atmosphere system (AIAI)</b><br> Funded by the French National Agency for Research (ANR) over 2023-2027<br><img src="{{site.baseurl}}/img/ANR-logo-2021-sigle.jpg" width="10%" height="10%" style="float: none;" /> </P>
+    </TD>
+  </TR>
+</TABLE>
 {:/}
 
-
+## Project objectives
+This project aims to improve the integration of ice sheets into Earth System Models through the use of neural network emulators at the interfaces between the Antarctic ice sheet and the global atmosphere, and between Antarctic ice sheet and the global ocean. These will bring increased resolution and account for polar processes absent or poorly represented in Earth System Models. We will use this enhanced coupling framework to improve future projections of the Antarctic ice sheet contribution to global mean sea level rise by reducing uncertainties of both ocean-induced and atmosphere-induced variations in ice mass.
 
 ## News
 {% for post in site.posts %}
