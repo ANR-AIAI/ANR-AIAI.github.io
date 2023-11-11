@@ -23,7 +23,7 @@ or
 
 ## Mailing list
 
-All the people initially involved in AIAI should be in the mailing list, but every new student or collaborator should be encouraged to suscribe. To do so, send an email to [sympa@services.cnrs.fr](sympa@services.cnrs.fr) with the subject line “subscribe to aiai”.
+All the people initially involved in AIAI should be in the mailing list, but every new student or collaborator should be encouraged to suscribe. To do so, send an email to <a href="mailto:sympa@services.cnrs.fr">sympa@services.cnrs.fr</a><br> with the subject line “subscribe to aiai”.
 
 ## Contribute to the website
 
