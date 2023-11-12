@@ -27,4 +27,4 @@ All the people initially involved in AIAI should be in the mailing list, but eve
 
 ## Contribute to the website
 
-xx
+This website is updated through github ([https://github.com/orgs/ANR-AIAI](https://github.com/orgs/ANR-AIAI)). You can either ask Nicolas Jourdain to become a member and directly edit the content through git command lines, or fork the repository and do [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#), or send content by email to Nicolas J.
