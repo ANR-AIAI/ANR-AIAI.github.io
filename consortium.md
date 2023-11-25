@@ -53,3 +53,5 @@ The rest of the consortium consists of:
 * Aurélien QUIQUET (IPSL-LSCE)
 
 * Charles AMORY (IGE)
+
+* Anne CHAPUIS (IGE)
