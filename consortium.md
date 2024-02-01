@@ -55,3 +55,7 @@ The rest of the consortium consists of:
 * Charles AMORY (IGE)
 
 * Anne CHAPUIS (IGE)
+
+* Arnaud CAUBEL (LSCE)
+
+* Lucas BASTIEN (IGE)
