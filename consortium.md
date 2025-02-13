@@ -24,6 +24,8 @@ The rest of the consortium consists of:
 
 * Clara BURGARD (IPSL-LOCEAN)
 
+* Christoph KITTEL (ULg/VUB)
+
 * Julie DESHAYES (IPSL-LOCEAN)
 
 * Gaël DURAND (IGE)

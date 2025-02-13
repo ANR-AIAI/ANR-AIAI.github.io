@@ -12,7 +12,7 @@ permalink: /publications/
 
 ## Peer reviewed publications
 
-# 2024
+# 2025
 
 2. Jourdain, N. C., Amory, C., Kittel, C. and Durand, G. (2024). Changes in Antarctic surface conditions and potential for ice shelf hydrofracturing from 1850 to 2200. _submitted to The Cryosphere_. 
 
