@@ -18,6 +18,12 @@ The project is coordinated by:
 
 * [Masa Kageyama (IPSL-LSCE)](https://www.lsce.ipsl.fr/Phocea/Pisp/index.php?nom=masa.kageyama).
 
+The persons hired by AIAI are:
+
+* Helen OCKENDEN (IGE)
+
+* Achille GELLENS (IPSL-LSCE)
+
 The rest of the consortium consists of:
 
 * Cécila AGOSTA (IPSL-LSCE)
