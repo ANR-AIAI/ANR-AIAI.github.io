@@ -14,6 +14,8 @@ permalink: /publications/
 
 # 2025
 
+5. Burgard, C., Jourdain, N. C., Mosbeux, C., Caillet, J., Mathiot, P., Kittel, C. (2025). Ocean warming threatens the viability of 60% of Antarctic ice shelves. _Nature_. [doi:10.1038/s41586-025-09657-w](https://doi.org/10.1038/s41586-025-09657-w)
+
 4. Jourdain, N. C., Amory, C., Kittel, C. and Durand, G. (2025). Changes in Antarctic surface conditions and potential for ice shelf hydrofracturing from 1850 to 2200. _The Cryosphere_, 19, 1641–1674. [doi:10.5194/tc-19-1641-2025](https://doi.org/10.5194/tc-19-1641-2025)
 
 3. Caillet, J., Jourdain, N. C., Mathiot, P., Gillet-Chaulet, F., Urruty, B., Burgard, C., Amory, C., Kittel, C. and Chekki, M. (2025). Uncertainty in the projected Antarctic contribution to sea level due to internal climate variability. _Earth System Dynamics_, 16, 293–315. [doi:10.5194/esd-16-293-2025](https://doi.org/10.5194/esd-16-293-2025)
