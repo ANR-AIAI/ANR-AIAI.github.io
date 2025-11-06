@@ -12,6 +12,8 @@ New work from the AIAI project has been published in _Nature_, based on ice-shel
 
 **Reference:** Burgard, C., Jourdain, N. C., Mosbeux, C., Caillet, J., Mathiot, P., Kittel, C. (2025). Ocean warming threatens the viability of 60% of Antarctic ice shelves. _Nature_. [doi:10.1038/s41586-025-09657-w](https://doi.org/10.1038/s41586-025-09657-w)
 
+A **Research Briefing** that summarises the article has also been published: [doi:10.1038/d41586-025-03581-9](https://doi.org/10.1038/d41586-025-03581-9) 
+
 We estimated dates, in given anthropogenic emission scenarios, beyond which individual ice shelves can no longer exist as we know them. We took into account all uncertainties related to the future of the ice, atmosphere, and ocean, including deep uncertainties about poorly understood processes such as ice fracturing and calving.
 
 <center><div>
