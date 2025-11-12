@@ -12,6 +12,8 @@ permalink: /media/
 
 ## Media reporting on the research conducted in AIAI:
 
+* **Géo**: Sombre pronostic pour le continent blanc? Deux nouvelles études sur l'Antarctique font un constat glaçant (Nastasia Michael, November 2025). [See online](https://www.geo.fr/environnement/sombre-pronostic-pour-le-continent-blanc-deux-nouvelles-etudes-sur-l-antarctique-font-un-constat-glacant-229390)
+
 * **Ekologia.pl**: Antarktyda w odwrocie. Ponad połowa jej szelfów lodowych może się zawalić do 2300 roku (Joanna Szubierajska, November 2025). [See online article](https://www.ekologia.pl/wiadomosci/antarktyda-w-odwrocie-ponad-polowa-jej-szelfow-lodowych-moze-sie-zawalic-do-2300-roku/)
 
 * **Fede e Ragione**: Il cambiamento climatico minaccia l'Antartide : fino al 60% delle piattaforme di ghiaccio a rischio collasso (Paolo Centofenti, October 2025). [See online article](https://www.federagione.org/2025/10/31/cambiamento-climatico-antartide/).
