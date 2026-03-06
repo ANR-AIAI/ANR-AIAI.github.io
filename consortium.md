@@ -20,6 +20,8 @@ The project is coordinated by:
 
 The persons hired by AIAI are:
 
+* Ségolène Crossouard (IPSL-LSCE)
+
 * Helen OCKENDEN (IGE)
 
 * Achille GELLENS (IPSL-LSCE)

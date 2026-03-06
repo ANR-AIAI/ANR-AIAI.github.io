@@ -12,9 +12,13 @@ permalink: /publications/
 
 ## Peer reviewed publications
 
-# 2025
+# 2026
+
+7. Ockenden, H., Burgard, C., Mathiot, P., Kittel, C., Gellens, A., Agosta, C. and Jourdain, N. C. (2026). A neural network emulator of ice-shelf melt rates for use in ocean models which partially resolve ice-shelf cavities, **Submitted to Geoscientific Model Development**
 
 6. Johanna Beckmann, J., Reese, R., McCormack, F. S., Cook, S., Bird, L., Gwyther, D., Richards, D., Scheiter, M., Wang, Y., Seroussi, H., Abe‐Ouchi, A., Albrecht, T., Alvarez‐Solas, J., Asay‐Davis, X. S., Barre, J.-B., Berends, C. J., Bernales, J., Blasco, J., Caillet, J., Chandler, D. M., Coulon, V., Cullather, R., Dumas, C., Galton‐Fenzi, B. K., Garbe, J., Gillet‐Chaulet, F., Gladstone, R., Goelzer, H., Golledge, N. R., Greve, R., Gudmundsson, G. H., Han, H. K., Hillebrand, T. R., Hoffman, M. J., Huybrechts, P., Jourdain, N. C., Klose, A. K., Langebroek, P. M., Leguy, G. R., Lipscomb, W. H., Lowry, D. P., Mathiot, P., Montoya, M., Morlighem, M., Nowicki, S., Pattyn, F., Payne, A. J., Pelle, T., Quiquet, A., Robinson, A., Saraste, L., Simon, E. G., Sun, S., Twarog, J. P., Trusel, L. D., Urruty, B., Van Breedam, J., van de Wal, R. S. W., Zhao, C. and Zwinger, T. (2025). Disentangling uncertainty in ISMIP6 Antarctic sub-shelf melting and 2300 sea level rise projections. **Submitted to The Cryosphere**. [doi:10.5194/egusphere-2025-4069](https://doi.org/10.5194/egusphere-2025-4069)
+
+# 2025
 
 5. Burgard, C., Jourdain, N. C., Mosbeux, C., Caillet, J., Mathiot, P., Kittel, C. (2025). Ocean warming threatens the viability of 60% of Antarctic ice shelves. **Nature**, 647, 102–108. [doi:10.1038/s41586-025-09657-w](https://doi.org/10.1038/s41586-025-09657-w)
 

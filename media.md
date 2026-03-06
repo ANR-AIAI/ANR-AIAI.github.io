@@ -12,6 +12,8 @@ permalink: /media/
 
 ## Media reporting on the research conducted in AIAI:
 
+* **The Greenletter Club**: L'Antarctique de l'Ouest va s'effondrer (Maxime Thuillez, Février 2026). [See YouTube video](https://youtu.be/NqjQqsnbobQ?si=duYjhkwyuxOjb5VS)
+
 * **Géo**: Sombre pronostic pour le continent blanc? Deux nouvelles études sur l'Antarctique font un constat glaçant (Nastasia Michael, November 2025). [See online](https://www.geo.fr/environnement/sombre-pronostic-pour-le-continent-blanc-deux-nouvelles-etudes-sur-l-antarctique-font-un-constat-glacant-229390)
 
 * **Ekologia.pl**: Antarktyda w odwrocie. Ponad połowa jej szelfów lodowych może się zawalić do 2300 roku (Joanna Szubierajska, November 2025). [See online article](https://www.ekologia.pl/wiadomosci/antarktyda-w-odwrocie-ponad-polowa-jej-szelfow-lodowych-moze-sie-zawalic-do-2300-roku/)
