@@ -16,6 +16,10 @@ layout: default
 ## Project objectives
 This project aims to improve the integration of ice sheets into Earth System Models through the use of neural network emulators at the interfaces between the Antarctic ice sheet and the global atmosphere, and between Antarctic ice sheet and the global ocean. These will bring increased resolution and account for polar processes absent or poorly represented in Earth System Models. We will use this enhanced coupling framework to improve future projections of the Antarctic ice sheet contribution to global mean sea level rise by reducing uncertainties of both ocean-induced and atmosphere-induced variations in ice mass.
 
+## More about the project
+
+To know more about AIAI, visit [this page](https://anr-aiai.github.io/more_about_the_project.md).
+
 ## News
 {% for post in site.posts %}
    - {{ post.date | date_to_string }} » [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
