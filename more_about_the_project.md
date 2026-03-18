@@ -33,7 +33,7 @@ To fulfil our general objective and test our hypotheses, we will focus on the An
 Simple NNs, at the grid scale level, provide encouraging preliminary results for ice-shelf basal melt patterns and variability (see 2nd proof of concept), but we plan to use convolutional NNs (CNN) throughout this project, in particular U-Net (Ronneberger et al. 2015; see also 1st proof of concept), to account for spatial structures in the input data. We will assess their skills with evolving ice sheet geometry, which was not done in our proofs of concept. We will also explore the use of physical constraints during the training stage (Thuerey at al. 2021). The NN will be trained and evaluated based on high-resolution simulations from polar-oriented models that are described hereafter (Fig. 1).
 
 <div>
-<img src="{{site.url}}img/more_fig1.png" width="60%" height="60%"/>
+<img src="{{site.url}}img/more_fig1.png" width="100%" height="100%"/>
 </div>
 
 ### Polar regional models used to train and evaluate NNs
@@ -51,7 +51,7 @@ Hindcasts and projections will be based on the IPSL-CM6-LR climate model, which 
 The ice sheet model used will be Elmer/Ice (Gagliardini et al. 2013), with an Antarctic unstructured mesh of up to 1km resolution, and the shallow shelf approximation of the Stokes equations. Elmer/Ice has been coupled to idealised (Favier et al. 2019) and global (TiPACCs project) NEMO configurations and is being coupled to LMDZ through the ESM2025 project. The coupling is done every year through file exchange. Scripts applying the trained NN will be added at the model interfaces to derive high-resolution SMB and melt from the coarse ocean/atmosphere properties as summarised in Fig. 2.
 
 <div>
-<img src="{{site.url}}img/more_fig2.png" width="60%" height="60%"/>
+<img src="{{site.url}}img/more_fig2.png" width="100%" height="100%"/>
 </div>
 
 ### Project organization
