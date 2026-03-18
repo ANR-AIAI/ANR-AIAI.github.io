@@ -18,7 +18,7 @@ This project aims to improve the integration of ice sheets into Earth System Mod
 
 ## More about the project
 
-To know more about AIAI, visit [this page](https://anr-aiai.github.io/more_about_the_project.md).
+To know more about AIAI, visit [this page](more_about_the_project.md).
 
 ## News
 {% for post in site.posts %}
