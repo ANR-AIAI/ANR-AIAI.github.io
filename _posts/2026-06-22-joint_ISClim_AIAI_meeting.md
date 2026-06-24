@@ -5,7 +5,7 @@ date: 2026-06-22
 ---
 
 <center><div>
-<img src="{{site.url}}img/header_AIAI_ISClim_meeting_2026.png" width="60%" height="60%"/>
+<img src="{{site.url}}img/header_AIAI_ISClim_meeting_2026.png" width="90%" height="90%"/>
 </div></center>
 
 We are organising a joint ISClim-AIAI meeting in Grenoble on 22-24 June 2026.
