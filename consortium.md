@@ -14,9 +14,13 @@ The AIAI consortium consists of 2 partners: the [Institut des Géosciences de l�
 
 The project is coordinated by:
 
-* [Nicolas Jourdain (IGE)](https://nicojourdain.github.io)
+* [Nicolas Jourdain (PI, IGE)](https://nicojourdain.github.io)
 
-* [Masa Kageyama (IPSL-LSCE)](https://www.lsce.ipsl.fr/Phocea/Pisp/index.php?nom=masa.kageyama).
+* [Masa Kageyama (coPI, IPSL-LSCE)](https://www.lsce.ipsl.fr/Phocea/Pisp/index.php?nom=masa.kageyama).
+
+* Clara BURGARD (IPSL-LOCEAN)
+
+* Cécila AGOSTA (IPSL-LSCE)
 
 The persons hired by AIAI are:
 
@@ -28,13 +32,9 @@ The persons hired by AIAI are:
 
 The rest of the consortium consists of:
 
-* Cécila AGOSTA (IPSL-LSCE)
-
-* Clara BURGARD (IPSL-LOCEAN)
+* Julie DESHAYES (IPSL-LOCEAN)
 
 * Christoph KITTEL (ULg/VUB)
-
-* Julie DESHAYES (IPSL-LOCEAN)
 
 * Gaël DURAND (IGE)
 
