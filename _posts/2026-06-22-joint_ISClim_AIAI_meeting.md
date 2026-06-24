@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Joint ISClim-AIAI meeting"
-date: 2025-05-27
+date: 2026-06-22
 ---
 
 <center><div>
